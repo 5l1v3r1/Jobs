@@ -1,0 +1,57 @@
+TD {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: tahoma,Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 11px; FONT-FAMILY: tahoma,Verdana, Arial, Helvetica, sans-serif
+}
+DIV {
+	FONT-SIZE: 11px; FONT-FAMILY: tahoma,Verdana, Arial, Helvetica, sans-serif
+}
+BODY {
+	FONT-SIZE: 11px; FONT-FAMILY: tahoma,Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	FONT-SIZE: 11px; FONT-FAMILY: tahoma,Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 11px; COLOR: #cc0000; TEXT-DECORATION: underline
+}
+#head A:link {
+	FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none
+}
+#head A:visited {
+	FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none
+}
+#head A:active {
+	FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none
+}
+#head A:hover {
+	FONT-SIZE: 14px; COLOR: #cc0000; TEXT-DECORATION: underline
+}
+#head TD {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: ео╢ъ,tahoma,Verdana, Arial, Helvetica, sans-serif
+}
+SELECT {
+	BORDER-RIGHT: #cccccc 0px double; BORDER-TOP: #cccccc 0px double; FONT-SIZE: 9pt; BORDER-LEFT: #cccccc 0px double; COLOR: #000000; BORDER-BOTTOM: #cccccc 0px double; FONT-FAMILY: Tahoma, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+INPUT {
+	BORDER-RIGHT: #cccccc 1px double; BORDER-TOP: #cccccc 1px double; FONT-SIZE: 9pt; BORDER-LEFT: #cccccc 1px double; COLOR: #333333; BORDER-BOTTOM: #cccccc 1px double; FONT-FAMILY: MS Shell Dlg,Tahoma, sans-serif; HEIGHT: 20px; BACKGROUND-COLOR: #ffffff
+}
+FONT.code {
+	FONT-FAMILY: Monaco, Courier, Courier New
+}
+CODE {
+	FONT-SIZE: 11px; FONT-FAMILY: "Courier"
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #dee3e7; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #dee3e7; SCROLLBAR-3DLIGHT-COLOR: #d1d7dc; SCROLLBAR-ARROW-COLOR: #006699; SCROLLBAR-TRACK-COLOR: #efefef; SCROLLBAR-DARKSHADOW-COLOR: #98aab1
+}
